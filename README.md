@@ -7,4 +7,4 @@ This is a frontend summary card where you can choose subscription options:
   3. Proceed to Payment
   4. Cancel subscription
 
-This is the demo the frontend design built using HTML and CSS.
+This is the demo frontend design built using HTML and CSS.
