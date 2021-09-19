@@ -1,0 +1,92 @@
+body{
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-color: hsl(225, 100%, 94%);
+  background-size:contain;
+  background-repeat: no-repeat;
+  text-align: center;
+  line-height: 1.5;
+  font-family: 'Red Hat Display', sans-serif;
+}
+.card
+{
+  margin: 15rem auto;
+  background-color: white;
+  display: inline-block;
+  border-radius: 25px;
+}
+.main-heading
+{
+    font-weight: 900;
+}
+.card-img
+{
+  border-radius: 25px 25px 0 0 ;
+}
+.inside-text
+{
+  width: 300px;
+  margin:auto;
+  color: hsl(224, 23%, 55%);
+}
+.plan-det
+{
+  width: 72%;
+  margin: 25px auto;
+  text-align: left;
+  background-color: hsl(225, 100%, 98%);
+  padding: 20px;
+  border-radius: 10px;
+}
+.music-icon{
+  float: left;
+  margin-right: 20px;
+  width: 15%;
+}
+.plan-name
+{
+  display:inline-block;
+  margin: 0;
+  font-weight: 900;
+}
+.plan-text
+{
+  display:inline-block;
+  margin: 0;
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+}
+.change-link
+{
+  margin: auto auto 20px 100px;
+}
+.change-link:hover
+{
+  text-decoration: none;
+  color:hsl(245, 75%, 70%);
+}
+.payment
+{
+  background-color: hsl(245, 75%, 52%);
+  margin: 30px auto;
+  padding: 10px 90px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  box-shadow: 0 15px 20px hsl(245, 75%, 87%);
+  display: block;
+  width: 41%;
+}
+.payment:hover{
+  background-color: hsl(245, 75%, 65%);
+}
+.cancel
+{
+  text-decoration: none;
+  padding-bottom: 40px;
+  display: block;
+  color: hsl(224, 23%, 55%);
+}
+.cancel:hover
+{
+  color: hsl(223, 47%, 23%);
+}
